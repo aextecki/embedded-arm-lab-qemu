@@ -4,3 +4,4 @@ vmlinuz*
 *.qcow2
 *.img*
 vmlinuz*
+gpio_controller_arm
